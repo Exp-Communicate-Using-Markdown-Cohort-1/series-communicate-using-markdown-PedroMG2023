@@ -7,3 +7,6 @@ int main(){
   printf("¡Hello world from c!");
 }
 ```
+- [ ] Learn more about github
+- [ ] Practice using markdown
+- [ ] Finish the task
